@@ -1,0 +1,3 @@
+  git add file.csv
+  git commit file.csv -m "golf data sheet 2012 3 2014"
+  git push
